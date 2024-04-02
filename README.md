@@ -1,7 +1,7 @@
 # Rudra Prakash Singh
 ## About Me
 - **Education**: Pursuing a B.S. in Computer Science at University of Washington Seattle.
-- **Relevant Coursework**: Data Structures, Object-Oriented Programming, Calculus 1-3, Discrete Mathematics, Statistics
+- **Relevant Coursework**:  Data Structures, Hardware & Software Interface, OOP, Calculus 1-3, Discrete Mathematics
 
 ## Skills
 ### Programming Frameworks:
