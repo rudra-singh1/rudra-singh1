@@ -8,7 +8,7 @@
 - Java, Python, JavaScript (Node.js, React.js, Next.js), Swift (iOS), MATLAB, C++, C
 
 ### Tools & Technologies:
-- Azure, Git, Docker, Linux/Unix, Ubuntu, Bootstrap, PostgreSQL, Android Studio, IntelliJ, PyCharm, Eclipse
+- Azure, Git, Docker, Linux/Unix, Ubuntu, Nginx, SSL, Bash Scripting, Bootstrap, PostgreSQL, Android Studio, IntelliJ, PyCharm, Eclipse
 
 ## Contact
 - Email: singh.rudra0502@gmail.com
