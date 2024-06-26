@@ -11,55 +11,54 @@ text, tspan {white-space: pre;}
 <rect width="970px" height="530px" fill="#f6f8fa" rx="15"/>
 
 <text x="15" y="30" fill="#24292f" class="ascii">
-<tspan x="15" y="30">-------------=*#%%%@@@%#=--------------</tspan>
-<tspan x="15" y="50">:::::::::-*%@@@@@@@@@@@@@@*-:::::::::::</tspan>
-<tspan x="15" y="70">:::::::-#@@@@@@@@@@@@@@@@@@@%+:::::::::</tspan>
-<tspan x="15" y="90">::::::=%%%%%@@@@@@@@@@@@@@@@@@@-:::::::</tspan>
-<tspan x="15" y="110">:::::+%@@@@@@@@@@@@@@@@@@@@@@@@%-::::::</tspan>
-<tspan x="15" y="130">::::=%@@@@@@@@@@@@@@@@@@@@@@@@@@*-:::::</tspan>
-<tspan x="15" y="150">:::-*@@@@@@@@@@@%%@@%%%%@@@@@@@@#-:::::</tspan>
-<tspan x="15" y="170">:::-#@@@@@%#**+++++**+++*#%@@@@@#-:::::</tspan>
-<tspan x="15" y="190">:::-#@@@@#*++++++++++++++**#@@@@%-:::::</tspan>
-<tspan x="15" y="210">:::-#@@@#*++============+++*#@@@%-:::::</tspan>
-<tspan x="15" y="230">:::-#@@*+******++===+****++**#@@#-:::::</tspan>
-<tspan x="15" y="250">:::-*@#+##**#%@%#*+*%@@@%####*@@*-:::::</tspan>
-<tspan x="15" y="270">::::*@*+**##%%%%#+-+#%%%%##**+%@+::::::</tspan>
-<tspan x="15" y="290">:::-*%*++***###*+=-=+*######*+#%+-:::::</tspan>
-<tspan x="15" y="310">:::=**++==========-====+++++++*##=:::::</tspan>
-<tspan x="15" y="330">:::-*#++===--=======+==---==++*#+-:::::</tspan>
-<tspan x="15" y="350">:::-+++++====++*%##%%*+=====++*+=-:::::</tspan>
-<tspan x="15" y="370">:::-=++++++**+++**#**++***+++*++-::::::</tspan>
-<tspan x="15" y="390">::::::-+++**#**********%#****+=-:::::::</tspan>
-<tspan x="15" y="410">::::::-=***+++++************+-:::::::::</tspan>
-<tspan x="15" y="430">:::::::-+***+++*#####*++**#*-::::::::::</tspan>
-<tspan x="15" y="450">::::::::-*#**+===++++++*###=:::::::::::</tspan>
-<tspan x="15" y="470">::::::::-**###*******##%%#*=:::::::::::</tspan>
-<tspan x="15" y="490">::::::::-+**##%%%%%%%%%%#**=--:::::::::</tspan>
-<tspan x="15" y="510">:::::::--++***##%%%%%%##**+=+#-::::::::</tspan>
+<tspan x="15" y="30">-------------=*#%%%@@@%#=-------------</tspan>
+<tspan x="15" y="50">:::::::::-*%@@@@@@@@@@@@@@*-::::::::::</tspan>
+<tspan x="15" y="70">:::::::-#@@@@@@@@@@@@@@@@@@@%+::::::::</tspan>
+<tspan x="15" y="90">::::::=%%%%%@@@@@@@@@@@@@@@@@@@-::::::</tspan>
+<tspan x="15" y="110">:::::+%@@@@@@@@@@@@@@@@@@@@@@@@%-:::::</tspan>
+<tspan x="15" y="130">::::=%@@@@@@@@@@@@@@@@@@@@@@@@@@*-::::</tspan>
+<tspan x="15" y="150">:::-*@@@@@@@@@@@%%@@%%%%@@@@@@@@#-::::</tspan>
+<tspan x="15" y="170">:::-#@@@@@%#**+++++**+++*#%@@@@@#-::::</tspan>
+<tspan x="15" y="190">:::-#@@@@#*++++++++++++++**#@@@@%-::::</tspan>
+<tspan x="15" y="210">:::-#@@@#*++============+++*#@@@%-::::</tspan>
+<tspan x="15" y="230">:::-#@@*+******++===+****++**#@@#-::::</tspan>
+<tspan x="15" y="250">:::-*@#+##**#%@%#*+*%@@@%####*@@*-::::</tspan>
+<tspan x="15" y="270">::::*@*+**##%%%%#+-+#%%%%##**+%@+:::::</tspan>
+<tspan x="15" y="290">:::-*%*++***###*+=-=+*######*+#%+-::::</tspan>
+<tspan x="15" y="310">:::=**++==========-====+++++++*##=::::</tspan>
+<tspan x="15" y="330">:::-*#++===--=======+==---==++*#+-::::</tspan>
+<tspan x="15" y="350">:::-+++++====++*%##%%*+=====++*+=-::::</tspan>
+<tspan x="15" y="370">:::-=++++++**+++**#**++***+++*++-:::::</tspan>
+<tspan x="15" y="390">::::::-+++**#**********%#****+=-::::::</tspan>
+<tspan x="15" y="410">::::::-=***+++++************+-::::::::</tspan>
+<tspan x="15" y="430">:::::::-+***+++*#####*++**#*-:::::::::</tspan>
+<tspan x="15" y="450">::::::::-*#**+===++++++*###=::::::::::</tspan>
+<tspan x="15" y="470">::::::::-**###*******##%%#*=::::::::::</tspan>
+<tspan x="15" y="490">::::::::-+**##%%%%%%%%%%#**=--::::::::</tspan>
+<tspan x="15" y="510">:::::::--++***##%%%%%%##**+=+#-:::::::</tspan>
 </text>
 
 <text x="370" y="30" fill="#24292f">
-<tspan x="370" y="30">andrew@grant</tspan>
+<tspan x="370" y="30">rudra-singh1</tspan>
 <tspan x="370" y="50">——————</tspan>
-<tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10, iOS</tspan>
-<tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">21 years, 3 months, 13 days</tspan>
-<tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Rochester Institute of Technology</tspan><tspan class="commentColor"> #RIT</tspan>
-<tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Electrical and Computer Engineering Technology</tspan><tspan class="commentColor"> #CPET</tspan>
+<tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10, Ubuntu</tspan>
+<tspan x="370" y="90" class="keyColor">Major</tspan>: <tspan class="valueColor">B.S. Computer Science</tspan>
+<tspan x="370" y="110" class="keyColor">College</tspan>: <tspan class="valueColor">University of Washington Seattle</tspan><tspan class="commentColor"> #UDub</tspan>
+<tspan x="370" y="130" class="keyColor">Research Areas</tspan>: <tspan class="valueColor">Full-Stack Web Development, Azure</tspan><tspan class="commentColor"></tspan>
 <tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">IntelliJ IDEA 2021.2.1, VSCode 1.64.0</tspan>
-<tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, Python, C++, JavaScript</tspan>
-<tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, LaTeX, YAML, Markdown</tspan>
-<tspan x="370" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Spanish</tspan>
-<tspan x="370" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Minecraft Modding, iOS Jailbreaking</tspan>
-<tspan x="370" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Overclocking, Undervolting</tspan>
-<tspan x="370" y="330" class="keyColor">Contact</tspan>:
-<tspan x="370" y="350">——————</tspan>
-<tspan x="370" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">agrantnmac@gmail.com</tspan>
-<tspan x="370" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">Andrew6rant</tspan>
-<tspan x="370" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">andrew6rant</tspan>
-<tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
-<tspan x="370" y="470">——————</tspan>
-<tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">84</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">121</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">1,943  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">183</tspan>
-<tspan x="370" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">53  </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">434,280</tspan> (<tspan class="addColor">505,347++</tspan>, <tspan class="delColor">71,067--</tspan>)
-</text>
+<tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, Python, C, JavaScript, TypeScript,</tspan>
+<tspan x="370" y="210" class="keyColor">                     </tspan> <tspan class="keyColor"></tspan> <tspan class="valueColor">HTML, CSS, MATLAB, SQL, x84-86 Assembly </tspan>
+<tspan x="370" y="230" class="keyColor">Programming</tspan>.<tspan class="keyColor">Tools</tspan>: <tspan class="valueColor">Docker, Linux, Azure, Nginx, TensorFlow</tspan>
+<tspan x="370" y="250" class="keyColor">Tools</tspan>.<tspan class="keyColor">Databases</tspan>: <tspan class="valueColor">MongoDB, PostgreSQL</tspan>
+<tspan x="370" y="270" class="keyColor">Tools</tspan>.<tspan class="keyColor">Azure</tspan>: <tspan class="valueColor">DNS, Blob Storage, PostgreSQL DB, Virtual Machine</tspan>
+<tspan x="370" y="310" class="keyColor">Hobbies</tspan><tspan class="keyColor"></tspan>: <tspan class="valueColor">Golfing, Hiking, Gardening</tspan>
+<tspan x="370" y="350" class="keyColor">Contact</tspan>:
+<tspan x="370" y="370">——————</tspan>
+<tspan x="370" y="390" class="keyColor">Email</tspan>: <tspan class="valueColor">singh.rudra0502@gmail.com</tspan>
+<tspan x="370" y="410" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">rudra-p-singh</tspan>
+<tspan x="370" y="430" class="keyColor">GitHub</tspan>: <tspan class="valueColor">rudra-singh1</tspan>
+<tspan x="370" y="470" class="keyColor">More Information</tspan>:
+<tspan x="370" y="490">——————</tspan>
+<tspan x="370" y="510" class="keyColor">Coursework</tspan>: <tspan class="valueColor">Data Structures, Algorithms, ML, Linear Algebra </tspan></text>
 
 </svg>
