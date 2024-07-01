@@ -41,11 +41,11 @@ text, tspan {white-space: pre;}
 <text x="370" y="30" fill="#24292f">
 <tspan x="370" y="30">rudra-singh1</tspan>
 <tspan x="370" y="50">——————</tspan>
-<tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10, Ubuntu</tspan>
+<tspan x="370" y="70" class="keyColor">Name</tspan>: <tspan class="valueColor">Rudra Prakash Singh</tspan>
 <tspan x="370" y="90" class="keyColor">Major</tspan>: <tspan class="valueColor">B.S. Computer Science</tspan>
 <tspan x="370" y="110" class="keyColor">College</tspan>: <tspan class="valueColor">University of Washington Seattle</tspan><tspan class="commentColor"> #UDub</tspan>
-<tspan x="370" y="130" class="keyColor">Research Areas</tspan>: <tspan class="valueColor">Full-Stack Web Development, Azure</tspan><tspan class="commentColor"></tspan>
-<tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">IntelliJ IDEA 2021.2.1, VSCode 1.64.0</tspan>
+<tspan x="370" y="130" class="keyColor">Research Areas</tspan>: <tspan class="valueColor">Full-Stack Web Development, Azure, Proxmox VE</tspan><tspan class="commentColor"></tspan>
+<tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode, WebStorm, Android Studio</tspan>
 <tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, Python, C, JavaScript, TypeScript,</tspan>
 <tspan x="370" y="210" class="keyColor">                     </tspan> <tspan class="keyColor"></tspan> <tspan class="valueColor">HTML, CSS, MATLAB, SQL, x84-86 Assembly </tspan>
 <tspan x="370" y="230" class="keyColor">Programming</tspan>.<tspan class="keyColor">Tools</tspan>: <tspan class="valueColor">Docker, Linux, Azure, Nginx, TensorFlow</tspan>
