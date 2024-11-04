@@ -1,7 +1,8 @@
-<a href="https://github.com/rudra-singh1/rudra-singh1">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rudra-singh1/rudra-singh1/main/light_mode.svg">
-    <img alt="Rudra Singh's GitHub Profile README" src="https://raw.githubusercontent.com/rudra-singh1/rudra-singh1/main/light_mode.svg">
-  </picture>
-</a>
+# Rudra Prakash Singh
 
+**Computer Science Undergraduate**  
+**University of Washington, Seattle**
+
+**Full-stack developer, machine learning enthusiast, and data-driven thinker.** I’m focused on building scalable solutions in web development and ML, with hands-on experience across software engineering, cloud computing, and machine learning research.
+
+[**Portfolio**](https://rudrasingh.netlify.app/)
