@@ -3,6 +3,5 @@
 **Computer Science Undergraduate**  
 **University of Washington, Seattle**
 
-**Full-stack developer, machine learning enthusiast, and data-driven thinker.** I’m focused on building scalable solutions in web development and ML, with hands-on experience across software engineering, cloud computing, and machine learning research.
-
+**Interested in distributed systems, full stack web development, and networks..** I’m focused on building scalable solutions in web development and ML, with hands-on experience across research, internships, and projects. 
 [**Portfolio**](https://rudrasingh.netlify.app/)
