@@ -1,6 +1,4 @@
-# Rudra Prakash Singh
+### Hi! I'm Rudra 👋
 
-**Computer Science Undergraduate**  
-**University of Washington, Seattle**
-
-**Interested in LLM Reasoning, Distributed Architectures, and ICTD Research**
+![Overall Stats](https://github-readme-stats-gilt-one-15.vercel.app/api?username=rudra-singh1&count_private=true&theme=transparent&show_icons=true&hide=stars,contribs&rank_icon=github)
+![Top Langs](https://github-readme-stats-gilt-one-15.vercel.app/api/top-langs/?username=rudra-singh1&theme=transparent&layout=compact&hide=html&count_private=true)
